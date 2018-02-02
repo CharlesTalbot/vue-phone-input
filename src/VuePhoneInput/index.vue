@@ -324,7 +324,7 @@
         ],
         default: '',
       },
-      availbleOnly: {
+      availableData: {
         type: Array,
         default: null,
       },
