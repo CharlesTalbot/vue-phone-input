@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MitrophD/vue-phone-input.git"
+    "url": "git+https://github.com/CharlesTalbot/vue-phone-input.git"
   },
   "keywords": [
     "vue",
@@ -31,9 +31,9 @@
   "author": "Dmitriy Mitrophanskiy <dmitrophanskiy@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MitrophD/vue-phone-input/issues"
+    "url": "https://github.com/CharlesTalbot/vue-phone-input.git"
   },
-  "homepage": "https://github.com/MitrophD/vue-phone-input#readme",
+  "homepage": "https://github.com/CharlesTalbot/vue-phone-input.git#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
